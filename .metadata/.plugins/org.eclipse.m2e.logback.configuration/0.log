@@ -1,0 +1,21 @@
+2016-03-16 15:51:15,884 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /home/aniket/Documents/entityresolution/core/pom.xml
+2016-03-16 15:51:19,870 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.ad.research.entityresolution:core:0.0.1-SNAPSHOT @ /home/aniket/Documents/entityresolution/core/pom.xml.
+2016-03-16 15:51:20,707 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/main/java
+2016-03-16 15:51:20,710 [Worker-0] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /core/src/test/java
+2016-03-16 15:51:20,812 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-03-16 15:51:22,151 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:51:22,152 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/main/resources
+2016-03-16 15:51:22,165 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:51:22,165 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/test/resources
+2016-03-16 15:52:02,758 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:52:02,759 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/main/resources
+2016-03-16 15:52:02,765 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:52:02,766 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/test/resources
+2016-03-16 15:52:24,834 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:52:24,835 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/main/resources
+2016-03-16 15:52:24,838 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:52:24,839 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/test/resources
+2016-03-16 15:53:03,061 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:53:03,061 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/main/resources
+2016-03-16 15:53:03,067 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-03-16 15:53:03,067 [Worker-9] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /home/aniket/Documents/entityresolution/core/src/test/resources
